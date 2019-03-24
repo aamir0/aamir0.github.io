@@ -1,0 +1,93 @@
+{
+    "name": "Aamir Nayeem",
+    "title": "Software Engineer",
+    "description": "Results-driven and detail-oriented software engineer with 4 years of professional development experience. Interested in automating and eliminating inefficient processes and creating easy-to-use and innovative solutions.",
+    "contact": {
+        "email": "aamir.nayeem@gmail.com"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "companyName": "BAYADA Home Health Care",
+            "companyLocation": "Pennsauken Township, NJ",
+            "startDate": "Jun 2018",
+            "accomplishments": [
+                "Created mobile applications using React Native",
+                "Created RESTful web applications using ASP.NET MVC and Web API"
+            ]
+        },
+        {
+            "title": "Software Engineer",
+            "companyName": "Financial Software Systems (now part of ION Trading)",
+            "companyLocation": "Horsham, PA",
+            "startDate": "Jun 2014",
+            "endDate": "May 2018",
+            "accomplishments": [
+                "Automated patching, installation, and delivery processes, saving $12 million over five years",
+                "Created infrastructure for automated cloud performance testing on Amazon Web Services (AWS) and wrote client-facing performance analysis reports",
+                "Diagnosed and resolved deployment and environment issues for overseas clients across time zones",
+                "Used Kanban methodology to complete projects and bug fixes for desktop treasury management product used by domestic and international clients"
+            ]
+        },
+        {
+            "title": "Solution Architecture Intern",
+            "companyName": "Financial Software Systems (now part of ION Trading)",
+            "companyLocation": "Horsham, PA",
+            "startDate": "May 2013",
+            "endDate": "Aug 2013",
+            "accomplishments": [
+                "Created multithreaded service to enable continuous integration/deployment from Team Foundation Server (TFS)",
+                "Created utility to automatically package and encrypt binaries and deliverables for client-specific delivery",
+                "Coordinated client deliveries with developers and client services team members"
+            ]
+        },
+        {
+            "title": "Computing Lab Consultant",
+            "companyName": "University of Pittsburgh CSSD",
+            "companyLocation": "Pittsburgh, PA",
+            "startDate": "Aug 2012",
+            "endDate": "Dec 2013",
+            "accomplishments": [
+                "Resolved students' printing and computing issues",
+                "Maintained neatness and operation in campus computing labs",
+                "Maintained paper and toner stock for printers across university campus"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "University of Pittsburgh",
+            "schoolLocation": "Pittsburgh, PA",
+            "startDate": "Aug 2010",
+            "endDate": "Apr 2014",
+            "fields": [
+                { "degree": "B.S.",  "field": "Computer Science" },
+                { "degree": "B.A.",  "field": "Sociology" },
+                { "degree": "Minor", "field": "Economics" }
+            ]
+        }
+    ],
+    "languages": [
+        { "name": "C#",            "years": 4 },
+        { "name": "Java",          "years": 3 },
+        { "name": "SQL",           "years": 3 },
+        { "name": "C",             "years": 2 },
+        { "name": "C++",           "years": 2 },
+        { "name": "ASP.NET",       "years": 2 },
+        { "name": "JavaScript",    "years": 0 },
+        { "name": "PHP",           "years": 0 },
+        { "name": "Python",        "years": 0 },
+        { "name": "Ruby on Rails", "years": 0 }
+    ],
+    "software": [
+        { "name": "Visual Studio",        "level": 4, "experience": "Advanced" },
+        { "name": "Microsoft SQL Server", "level": 3, "experience": "Intermediate" },
+        { "name": "Jenkins",              "level": 3, "experience": "Intermediate" }
+    ],
+    "interests": [ "technology", "computing", "reading", "music", "sports" ],
+    "softSkills": [
+        { "name": "Communication", "level": 5 },
+        { "name": "Dependability", "level": 5 },
+        { "name": "Teamwork",      "level": 4 }
+    ]
+}
